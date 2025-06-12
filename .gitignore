@@ -1,0 +1,70 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# VS Code settings (если используешь VSCode)
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# PyCharm project files
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Compiled C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Test coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# SQLite or other local db files (если временно используешь)
+*.sqlite3
+*.db
+
+# System-specific files
+Thumbs.db
+ehthumbs.db
